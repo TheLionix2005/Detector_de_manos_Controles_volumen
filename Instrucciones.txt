@@ -1,0 +1,9 @@
+Instrucciones del proyecto 
+
+#1 clonar el repositorio
+
+#2 crear entorno virtual
+python -m venv venv
+
+#3 Instalar dependencias
+pip install -r requirements.txt
